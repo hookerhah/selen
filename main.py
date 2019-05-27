@@ -15,7 +15,7 @@ def main():
 	driver = webdriver.Chrome(chrome_options=chrome_options, executable_path=r'C:\ PATH')
 	try:
 		driver.set_page_load_timeout(10)
-		driver.get("http://atakoyescort.com")
+		driver.get("http://")
     print(a,'success')
 		time.sleep(15)
 		driver.quit()
